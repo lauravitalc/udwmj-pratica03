@@ -1,0 +1,41 @@
+.titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4rem;
+    color: blue;
+}
+
+#soma,
+#subtracao,
+#multiplicacao,
+#divisao,
+#resto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+#soma {
+    color: green;
+}
+
+#subtracao {
+    color: red;
+}
+
+#multiplicacao {
+    color: blue;
+}
+
+#divisao {
+    color: purple;
+}
+
+#resto {
+    color: orange;
+}
+
+.numero {
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
